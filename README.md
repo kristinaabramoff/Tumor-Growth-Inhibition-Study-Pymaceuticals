@@ -23,7 +23,7 @@ The study involved 249 mice with SCC tumors. The mice were treated with various 
 #### Tumor Volume Distribution - Boxplot
 The box plot shows the final tumor volumes across four different drug regimens. This highlights the effectiveness of the drugs based on tumor reduction.
 
-![Boxplot](Output/boxplot.png)
+(Output/boxplot.png)
 
 #### Gender Distribution of Mice - Pie Chart
 The pie chart illustrates the distribution of male and female mice used in the study.
