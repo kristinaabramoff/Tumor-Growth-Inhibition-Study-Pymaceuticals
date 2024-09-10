@@ -60,4 +60,4 @@ The median final tumor volume was the highest after the Ketapril drug regimen.
 ## How to Use
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pymaceuticals.git
+   git clone [https://github.com/yourusername/pymaceuticals.git](https://github.com/kristinaabramoff/Tumor-Growth-Inhibition-Study-Pymaceuticals.git)
