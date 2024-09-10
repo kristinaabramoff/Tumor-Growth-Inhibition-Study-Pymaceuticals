@@ -45,6 +45,18 @@ This line plot shows how the tumor volume for a single mouse treated with Capomu
 
 ![Tumor Volume](Output/tumorvolumn.png)
 
+
+### Analysis
+
+A strong Positive correlation is found between the the weight of the mouse treated with Capomuin and average tumor volume.
+
+The tumor volume for mouse l509 decreased over the course of the Capomulin drug regimen. The final tumor volume on the last day of treatment(day 45) was smaller compared to the initial day (day 0). Additionally, the tumor volume reached its smallest value at day 35 of the treatment.
+
+The median final tumor volume was the smallest after the drug regimen Ramicane. 
+The median final tumor volume was the highest after the Ketapril drug regimen.
+
+
+
 ## How to Use
 1. **Clone the Repository**:
    ```bash
