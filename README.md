@@ -18,10 +18,15 @@ The study involved 249 mice with SCC tumors. The mice were treated with various 
 ### Data Preparation
 - Mouse metadata and study results were merged, and any duplicate data was removed before proceeding with the analysis.
 
+### Summary Statistics Dataframe was created
+<img width="857" alt="summary statistics df" src="https://github.com/user-attachments/assets/37adc51d-13d3-417a-a7db-9362503dc395">
+
+
 ### Visualizations
 
 #### Tumor Volume Distribution - Boxplot
 The box plot shows the final tumor volumes across four different drug regimens. This highlights the effectiveness of the drugs based on tumor reduction.
+
 ![boxplot](https://github.com/user-attachments/assets/09779625-30c8-4809-8cbb-a53023607dfe)
 
 
